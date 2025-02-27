@@ -1,2 +1,2 @@
-# Kygef-website
+# Kygef
 Abbreviation of our full meaning 
